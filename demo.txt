@@ -2,8 +2,7 @@ idontwantthisbodyidontwantthisvoiceidontwanttobeherebutigussesihavenochoicejustl
 
 //https://www.zhihu.com/question/30262900//
 /*
-//hello9.20
-//let me trytrytry16.13
+//第一张不好看（√）
 //__________________________________________simple_______________________________________________
 // NOTE: compile with g++ filename.cpp -std=c++11
 
