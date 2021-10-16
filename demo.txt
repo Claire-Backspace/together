@@ -1,9 +1,6 @@
-idontwantthisbodyidontwantthisvoiceidontwanttobeherebutigussesihavenochoicejustletmelivemyturthitsalliwannadobabyyounotbrokenjustlittlebitconfuse
-
 //https://www.zhihu.com/question/30262900//
 /*
-//第一张不好看（√）
-//__________________________________________simple_______________________________________________
+_______________________________________________simple_______________________________________________
 // NOTE: compile with g++ filename.cpp -std=c++11
 
 #include <iostream>
